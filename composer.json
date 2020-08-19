@@ -1,5 +1,5 @@
 {
-    "name": "sallar/jdatetime",
+    "name": "ashanet/jdatetime",
     "type": "library",
     "description": "Jalali (Shamsi) DateTime class written in PHP, Supports year higher than 2038",
     "keywords": ["date", "datetime", "jalali", "jalalidate", "jdatetime","shamsi","iran","farsi","persian","time"],
